@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(239, 205, 147);
+}
+.heading{
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 20px;
+    padding-left: 120px;
+    padding-right: 120px ;
+    border: 0.1px solid rgb(237, 232, 232);
+    box-shadow: 1px 3px 50px red;
+   margin-top: 20px;
+    
+   
+}
+.icon{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    padding-top: 9px;
+    border-radius: 5px;
+}
+.ecommerce{
+    font-size: 1.5rem;
+}
+.shop{
+    font-size: 2rem;
+    font-weight: bold;
+    margin-left: 44%;
+    margin-top: 5%
+}
+.one {
+    display:flex;
+    justify-content: space-between;
+   
+    margin-top: 50px;
+    
+     
+
+}
+.two{
+    display:flex;
+    justify-content: space-between;
+    margin-top: 50px;
+        
+}
+
+
+.pic{
+    border: 10px solid rgb(253, 135, 25);
+    box-shadow: 2px 3px 100px rgba(251, 3, 3, 0.925) ;
+    height: 300px;
+    width: 300px;
+}
+.price {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+.product-name{
+    margin-top: 10px;
+}
